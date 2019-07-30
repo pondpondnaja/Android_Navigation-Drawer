@@ -445,7 +445,11 @@ public class Fragment1 extends Fragment {
 
 เรายังไม่ได้เพิ่มอะไรเข้าไปให้เข้าไปที่ไฟล์ layout ของแต่ละอันแล้วลองใส่ TextView ดู หรือจะเอาตัวอย่างนี้ก็ได้
 
-#THE MOMENT OF TRUE
+ไฟล์ทั้งหมดควรจะมีประมาณนี้นะ
+
+![Image](https://drive.google.com/uc?id=1tiao6NXqv4PhDlCsBBSFf5AvqM3scrII)
+
+# THE MOMENT OF TRUE
 
 ลองกดเล่นได้เลย ^ ^
 
